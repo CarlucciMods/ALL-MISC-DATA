@@ -1,0 +1,23 @@
+{
+  "TerminalSettings": {
+    "ImmediatelyQuitOnceAllTasksAreDone": false,
+    "LogLevel": 3
+  },
+  "ApplicationSettings": {
+    "Parser": {
+      "MusicFileFileVersion": {
+        "Main": 2,
+        "Sub": 1
+      },
+      "SoundFileFileVersion": {
+        "Main": 2,
+        "Sub": 0
+      },
+      "OverrideUAssetFileSizeOffsetFromEndOfFile": null
+    },
+    "AudioExtractor": {
+      "ExtractAsRaw": false,
+      "ExtractAsWav": true
+    }
+  }
+}
